@@ -12,7 +12,7 @@ void customSort(int *const array, const size_t n) {
     // Number of odd numbers in the array
     size_t odds = 0;
 
-    // Split the array in odd and even numbers
+    // Split the array into odd and even numbers
     for (size_t i = 0; i < n; ++i) {
         if (array[i] % 2 != 0) {
             assert (odds <= i);
