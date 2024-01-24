@@ -1,8 +1,4 @@
 # Семинарни упражнения Увод в Програмирането, група 7
-
-
-### [Обратна връзка за упражненията](https://forms.gle/Hn4pBy6U2ZLaimNA7)
-
 <br/>
 
 | Упражнение | Примери | Решения | Classroom |
@@ -17,7 +13,7 @@
 | [08. Динамична памет](08.%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%BD%D0%B0%20%D0%BF%D0%B0%D0%BC%D0%B5%D1%82#readme) | [примери](08.%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%BD%D0%B0%20%D0%BF%D0%B0%D0%BC%D0%B5%D1%82/example.cpp) | [решения](08.%20%D0%94%D0%B8%D0%BD%D0%B0%D0%BC%D0%B8%D1%87%D0%BD%D0%B0%20%D0%BF%D0%B0%D0%BC%D0%B5%D1%82/solutions) | [classroom](https://classroom.github.com/a/B1iXHNvL) |
 | [09. Символни низове](09.%20%D0%9D%D0%B8%D0%B7%D0%BE%D0%B2%D0%B5/README.md) | - | [решения](09.%20%D0%9D%D0%B8%D0%B7%D0%BE%D0%B2%D0%B5/solutions) | [classroom](https://classroom.github.com/a/1L7yKMSH) |
 | [10. Рекурсия](10.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F/README.md) | [примери](10.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F/examples.cpp) | [решения](10.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F/solutions) | [classroom](https://classroom.github.com/a/pEC9HUZp) |
-| [11. Рекурсия 2](11.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%202/README.md) | [примери](11.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%202/labyrinth.cpp) | - | [classroom](https://classroom.github.com/a/TENLXkLB) |
-| [12. Подготовка К3](12.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9A3/README.md) | - | - | [classroom](https://classroom.github.com/a/46KK3cYq) |
-| [13. Обобщение](13.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/README.md) | - | [решения]() | [classroom](https://classroom.github.com/a/ZXpTmX3X) |
-| [14. Обобщение 2](14.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%202/README.md) | - | - | [classroom](https://classroom.github.com/a/6fDMLqEH) |
+| [11. Рекурсия 2](11.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%202/README.md) | [примери](11.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%202/labyrinth.cpp) | [решения](11.%20%D0%A0%D0%B5%D0%BA%D1%83%D1%80%D1%81%D0%B8%D1%8F%202/solutions) | [classroom](https://classroom.github.com/a/TENLXkLB) |
+| [12. Подготовка К3](12.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9A3/README.md) | - | [решения](12.%20%D0%9F%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B0%20%D0%9A3/solutions) | [classroom](https://classroom.github.com/a/46KK3cYq) |
+| [13. Обобщение](13.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/README.md) | - | [решения](13.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/solutions) | [classroom](https://classroom.github.com/a/ZXpTmX3X) |
+| [14. Обобщение 2](14.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%202/README.md) | - | [решения](14.%20%D0%9E%D0%B1%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5%202/solutions) | [classroom](https://classroom.github.com/a/6fDMLqEH) |
